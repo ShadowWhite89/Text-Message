@@ -1,0 +1,5 @@
+ 7. def main():
+ 8.     # Create a public/private keypair with 1024-bit keys:
+ 9.     print('Making key files...')
+10.     makeKeyFiles('al_sweigart', 1024)
+11.     print('Key files made.')
